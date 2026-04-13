@@ -1,0 +1,10 @@
+colors:
+- [143, 0, 254]
+- [208, 2, 27]
+- [255, 199, 5]
+- [126, 211, 33]
+- [155, 155, 155]
+names: [Fastener absence, Track break, Track crack, Bolt missing, Fastener misalignment]
+nc: 5
+train: ../370610_Track defect detection/images/train
+val: ../370610_Track defect detection/images/val
